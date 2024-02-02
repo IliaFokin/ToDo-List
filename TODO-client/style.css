@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-storage {
+  color: #007bff;
+}
